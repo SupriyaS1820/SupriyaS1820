@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Supriya 👋
 
-<!--
-**SupriyaS1820/SupriyaS1820** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student at VIT Bhopal University  
+💻 Interested in AI, ML and Web Development  
+🌱 Currently learning programming and building projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 My Goals
+- Improve coding skills  
+- Build real-world projects  
+- Learn AI & Machine Learning  
+
+---
+
+## 🛠️ Skills (Learning)
+- Python  
+- HTML & CSS  
+- Basics of Machine Learning  
+
+---
+
+## 📂 Projects
+- AI Trip Budget Planner (Flask + ML Project)
+- Digital Literacy Portfolio (GitHub Project)
+
+---
+
+## 📫 Connect with me
+- GitHub: https://github.com/SupriyaS1820
